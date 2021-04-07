@@ -9,8 +9,6 @@ to run this website, you should do these steps:
 
 3 write this Json data at settings.json:
 
-{
-
-    "api_key": "YOUR_API_KEY_FROM openweathermap.org"
-
-}
+    {
+        "api_key": "YOUR_API_KEY_FROM openweathermap.org"
+    }
