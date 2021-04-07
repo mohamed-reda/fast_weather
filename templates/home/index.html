@@ -11,7 +11,7 @@
     <br>
     <br>
     <p class="lead">
-        The <a href="https://training.talkpython.fm/">Talk Python</a> weather service.<br>
+        Mo weather service.<br>
         <br>
         <strong>Endpoints</strong>
     <ul>
@@ -47,6 +47,17 @@
         </li>
     </ul>
     </p>
+
+    {% if events %}
+    <div>
+        <h2>Recent weather events</h2>
+        <ul>
+            {% for e in events %}
+            <li> {{ e.location.city }}, {{ e.location.country }}: {{ e.description }}</li>
+            {% endfor %}
+        </ul>
+    </div>
+    {% endif %}
 
     </div>
 
