@@ -17,8 +17,11 @@ to run this website, you should do these steps:
 
 
 before cach the result:
-https://user-images.githubusercontent.com/15935347/117774698-0fed7680-b23a-11eb-84f2-bc8da997cdf2.jpg
+
+<img src="https://user-images.githubusercontent.com/15935347/117774698-0fed7680-b23a-11eb-84f2-bc8da997cdf2.jpg"   />  
+
 
 
 After cach:
-https://user-images.githubusercontent.com/15935347/117774711-12e86700-b23a-11eb-8ab7-a44c793b5d28.jpg
+
+<img src="https://user-images.githubusercontent.com/15935347/117774711-12e86700-b23a-11eb-8ab7-a44c793b5d28.jpg"   /> 
